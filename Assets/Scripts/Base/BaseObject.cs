@@ -19,7 +19,7 @@ public abstract class BaseObject : Reference
         set { name = value; }
     }
 
-    //游戏对象的描述信息
+    //游戏对象的描述信息.
     public string descript;
     public string Descript
     {
